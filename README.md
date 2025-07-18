@@ -1,5 +1,4 @@
 # My Scoreboard Project
-Created by Linda
 
 ## About Scrimba
 
